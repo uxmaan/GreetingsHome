@@ -920,10 +920,10 @@ ul.slimmenu.collapsed li > ul {
 	height: 76vh;
 }
 #owl-top .item.top-image-1{
-	background-image:url('/images/mobile-gm.jpg');
+	background-image:url('../images/mobile-gm.jpg');
 }
 #owl-top .item.top-image-2{
-	background-image:url('/images/centric.jpg');
+	background-image:url('../images/centric.jpg');
 }
 #bar{
 	width: 0%;
